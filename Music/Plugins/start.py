@@ -135,7 +135,7 @@ async def play(_, message: Message):
             photo="https://telegra.ph/file/789ac94e46b56da6f66e2.jpg",
             caption=f"""Hallo {rpk}!
 
-[{BOT_NAME}](tg://user?id=2129034376) dapat memutar Music dan Video pada Obrolan Suara di Group Telegram!
+[{BOT_NAME}](https://t.me/{BOT_USERNAME}) dapat memutar Music dan Video pada Obrolan Suara di Group Telegram!
 
 Tekan tombol » ᴄᴏᴍᴍᴀɴᴅ​ untuk mengetahui perintah dan cara penggunaan Bot.
 """,
