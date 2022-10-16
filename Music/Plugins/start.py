@@ -132,7 +132,7 @@ async def play(_, message: Message):
         rpk = "[" + user_name + "](tg://user?id=" + str(user_id) + ")"
         await app.send_photo(
             message.chat.id,
-            photo="https://telegra.ph/file/b85591ac0a107edf28190.jpg",
+            photo="https://telegra.ph/file/789ac94e46b56da6f66e2.jpg",
             caption=f"""Hallo {rpk}!
 
 [{BOT_NAME}](tg://user?id=2129034376) dapat memutar Music dan Video pada Obrolan Suara di Group Telegram!
