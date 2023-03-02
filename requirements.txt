@@ -3,7 +3,7 @@ pyrogram==1.2.20
 py-tgcalls==0.8.6
 pybase64
 youtube-search-python
-yt-dlp
+git+https://github.com/yt-dlp/yt-dlp.git
 ffmpeg-python
 aiohttp
 aiofiles
